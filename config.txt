@@ -1,7 +1,7 @@
 [FluxVision Config]
 
 #YouTube playlist ID
-playlist_id = PLLV6BPSazQd4K5bGTy9oJxB3tCKLChVkH
+playlist_id = PLNwYeWqirr_4pzVoIIvbSWgzg_S10A9QT
 
 # YouTube download format
 # Recommended:
